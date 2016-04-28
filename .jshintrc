@@ -1,0 +1,6 @@
+{
+  "asi": true,
+  "node": true,
+  "esversion": 6,
+  "predef": ["it", "should", "describe"]
+}

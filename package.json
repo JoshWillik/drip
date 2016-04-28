@@ -1,0 +1,14 @@
+{
+  "name": "@username/drip",
+  "version": "0.0.1",
+  "description": "A promise happy nodejs templating language",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
+  "license": "ISC"
+}
